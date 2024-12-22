@@ -1,0 +1,10 @@
+Practica 2 Vue
+
+Nombres de los integrantes:
+    Leandro Giuliano Torrez Cayo
+
+Pasos para iniciar el proyecto:
+    npm install
+    npm run backend
+    npm run serve
+   

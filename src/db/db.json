@@ -1,0 +1,243 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Hamburguesas"
+    },
+    {
+      "id": "2",
+      "name": "Pizzería"
+    },
+    {
+      "id": "3",
+      "name": "Comida China"
+    },
+    {
+      "id": "4",
+      "name": "Mariscos"
+    },
+    {
+      "id": "5",
+      "name": "Pastas españolas"
+    },
+    {
+      "id": "6",
+      "name": "Chifa"
+    },
+    {
+      "id": "7",
+      "name": "Cevichería"
+    },
+    {
+      "id": "8",
+      "name": "Tacos"
+    },
+    {
+      "id": "9",
+      "name": "Sushi"
+    },
+    {
+      "id": "10",
+      "name": "Postres"
+    },
+    {
+      "name": "Parrillada",
+      "id": "C4JwqAq"
+    },
+    {
+      "name": "Italiana",
+      "id": "4jOewWh"
+    },
+    {
+      "name": "Vegana",
+      "id": "sNUjOGT"
+    },
+    {
+      "name": "Pollo frito",
+      "id": "B_g-VQj"
+    },
+    {
+      "name": "Silpancho",
+      "id": "xPzVLv4"
+    }
+  ],
+  "games": [
+    {
+      "id": "2",
+      "name": "Pizzería Horneado Felizss",
+      "categoryId": "2",
+      "platforms": [
+        "Pizza Pepperoni"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Restaurante Dragón Dorado",
+      "categoryId": "3",
+      "platforms": [
+        "Pollo Kung Pao",
+        "Chow Mein"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Marisquería El Océano Azul",
+      "categoryId": "4",
+      "platforms": [
+        "Ceviche de camarón",
+        "Pescado frito"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "La Trattoria Clásica",
+      "categoryId": "5",
+      "platforms": [
+        "Ravioli de espinaca",
+        "Spaghetti carbonara"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chifa Gran Muralla",
+      "categoryId": "6",
+      "platforms": [
+        "Arroz chaufa",
+        "Pollo tipakay"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Cevichería Don Pepe",
+      "categoryId": "7",
+      "platforms": [
+        "Ceviche clásico",
+        "Leche de tigre"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Tacos El Mariachi",
+      "categoryId": "8",
+      "platforms": [
+        "Tacos al pastor",
+        "Quesadillas"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Sushi Sakura",
+      "categoryId": "9",
+      "platforms": [
+        "Rollos de atún",
+        "Rollos de salmón"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Postrería Dulce Sabor",
+      "categoryId": "10",
+      "platforms": [
+        "Pasteles",
+        "Helados"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Pizzería La Aventura Italiana",
+      "categoryId": "2",
+      "platforms": [
+        "Pizza margarita",
+        "Calzone napolitano"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Hamburguesas Rey del Sabor",
+      "categoryId": "1",
+      "platforms": [
+        "Hamburguesa clásica",
+        "Hamburguesa con queso"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Chifa Sol Naciente",
+      "categoryId": "6",
+      "platforms": [
+        "Tallarín saltado",
+        "Aeropuerto especial"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Sushi Samurai",
+      "categoryId": "9",
+      "platforms": [
+        "Nigiri",
+        "Maki Roll"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Pastas de la Nonna",
+      "categoryId": "5",
+      "platforms": [
+        "Fettuccine Alfredo",
+        "Penne al pesto"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Hamburguesas La Jugosa",
+      "categoryId": "1",
+      "platforms": [
+        "Hamburguesa de pollo",
+        "Hamburguesa doble"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Tacos El Speedy",
+      "categoryId": "8",
+      "platforms": [
+        "Tacos de carne asada",
+        "Tacos de carnitas"
+      ]
+    },
+    {
+      "name": "Tacos Don Beto",
+      "platforms": [
+        "Tacos de suadero",
+        "Tacos de barbacoa"
+      ],
+      "categoryId": "8",
+      "id": "86Ve4g6"
+    },
+    {
+      "name": "Sushi Katana",
+      "platforms": [
+        "Sashimi",
+        "Temaki"
+      ],
+      "categoryId": "9",
+      "id": "5-MVb7b"
+    },
+    {
+      "name": "Panchita",
+      "platforms": [
+        "Pollo Kung Pao"
+      ],
+      "categoryId": "B_g-VQj",
+      "id": "G_N24MV"
+    },
+    {
+      "name": "Orejas de elefante ",
+      "platforms": [
+        "Hamburguesa clásica"
+      ],
+      "categoryId": "1",
+      "id": "KZSe8YD"
+    }
+  ]
+}
